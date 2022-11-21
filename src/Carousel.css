@@ -1,0 +1,56 @@
+.friends-count{
+    position: absolute;
+width: 241px;
+height: 30px;
+left: 189px;
+top: 296px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+
+color: #800080;
+}
+.CarouselCard{
+    width: 358px;
+    height: 228px;
+    margin: 20px;
+   
+
+    /* NEW GRADIENT 2 */
+    
+    background: linear-gradient(270deg, #800080 0%, #FF864C 100%);
+    border-radius: 20px;
+    
+    /* Inside auto layout */
+    
+   
+
+}
+.Carousel-box{
+    width:1200px;
+    position: absolute;
+ left: 189px;
+top: 346px;
+}
+.tandc{
+    position: absolute;
+width: 159px;
+height: 24px;
+left: 187px;
+top: 634px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #800080;
+}

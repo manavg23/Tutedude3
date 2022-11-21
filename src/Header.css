@@ -1,0 +1,109 @@
+.Header{
+    position: absolute;
+height: 73.03px;
+left: 0px;
+right: 0px;
+top: 0px;
+width: 100%;
+
+background: #FFFFFF;
+filter: drop-shadow(0px 1px 4px rgba(0, 0, 0, 0.05));
+}
+.logo{
+    background-image: url('../assets/image\ 1tutelogo.png');
+    position: absolute;
+width: 160px;
+height: 63px;
+left: 74px;
+top: 6px;
+}
+.nav{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+justify-content: space-between;
+
+
+position: absolute;
+width: 600px;
+height: 24px;
+
+right:100px;
+top: 25px;
+}
+.MyAssignment{
+    
+    width: 140px;
+height: 22px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 123.5%;
+/* or 22px */
+
+text-align: center;
+
+color: rgba(128, 0, 128, 0.25);
+
+}
+.MyAssignment:hover{
+    color: #800080;
+
+}
+.ChatwithMentor:hover{
+    color: #800080;
+}
+.ChatwithMentor{
+    width: 156px;
+height: 22px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 123.5%;
+
+
+text-align: center;
+
+color: rgba(128, 0, 128, 0.25);
+}
+.Profile-name{
+    width: 111px;
+height: 22px;
+
+font-family: 'Poppins',sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 123.5%;
+/* or 22px */
+
+text-align: center;
+
+color: rgba(128, 0, 128, 0.25);
+}
+.Profile-name:hover{
+    color: #800080;
+
+}
+.account-logo{
+    background-image: url('../assets/Account-circle1.svg') !important;
+    position: absolute;
+   height: 18px;
+   width: 18px;
+   top: 2px;
+   right:190px;
+
+
+}
+.arrow-down{
+    background-image: url('../assets/arrow-down.svg');
+    height:18px;
+    width: 18px;
+    transform: translate(-50px,0px);
+}

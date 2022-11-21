@@ -1,0 +1,112 @@
+.info{
+    position: absolute;
+width: 266px;
+height: 21px;
+left: 187px;
+top: 103px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.referral-box{
+    position: absolute;
+width: 153px;
+height: 79px;
+left: 187px;
+top: 151px;
+}
+.referral-text-box{
+    box-sizing: border-box;
+
+position: absolute;
+width: 153px;
+height: 50px;
+top: 25px;
+
+border: 1.5px solid #DFDFDF;
+border-radius: 10px;
+}
+.referral-text{
+    position: absolute;
+width: 150px;
+height: 24px;
+
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #800080;
+
+}
+.referral-code{
+    position: absolute;
+width: 124px;
+height: 24px;
+left: 15px;
+top: 38px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+letter-spacing: 0.75em;
+
+color: #000000;
+}
+.dashboard-box{
+    position: absolute;
+width: 145px;
+height: 85px;
+left: 1034px;
+top: 151px;
+
+background: #FFFFFF;
+box-shadow: 0px 2px 8px rgba(128, 0, 128, 0.15);
+border-radius: 20px;
+}
+.wallet-balance{
+   height: 21px;
+   padding-top: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+left: 35px;
+/* identical to box height */
+
+
+color: #800080;
+}
+.wallet-amount{
+    width: 45px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+padding-left: 20px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
